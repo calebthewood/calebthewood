@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebthewood
 - 👀 I’m interested in development
-- 🌱 I’m currently learning javascript & node.js
+- 🌱 I’m currently building my first React.js app
 - 💞️ I’m looking to collaborate on interesting ideas
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
