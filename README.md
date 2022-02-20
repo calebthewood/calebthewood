@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebthewood
 - 👀 I’m interested in development
-- 🌱 I’m currently building my first React/NextJS app
+- 🌱 I’m currently building a personal website
 - 💞️ I'll be attending Rithm School shortly
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
