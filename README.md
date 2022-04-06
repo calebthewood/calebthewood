@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @calebthewood
-- 👀 I’m interested in development
-- 🌱 I’m currently building a meme generator
-- 💞️ I'll be attending Rithm School shortly
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently working on projects in Python, Flask, and Postgre
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 <!---
