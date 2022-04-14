@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebthewood
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently working on projects in Python, Flask, and Postgre
+- 🌱 I’m currently working on projects in Javascript, Node, and Postgre
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 <!---
