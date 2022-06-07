@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebthewood
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently developing an API
+- 🌱 I’m currently rebuilding the NumbersAPI
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 <!---
