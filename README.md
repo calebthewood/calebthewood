@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebthewood
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently rebuilding the NumbersAPI
+- 🌱 I’m currently building a React app with web-sockets
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 ## Roadmap:
