@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @calebthewood
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently building a React app with web-sockets
+- 🌱 I’m currently building a React Node app with web-socket functionality
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 ## Roadmap:
 - [ ] Python 100 Days of Code (starting 07/01)
 - [ ] Updating Repo ReadMes (ongoing)
-- [ ] Resume EloquentJS Projects (starting 06/13)
+- [x] Resume EloquentJS Projects (starting 06/13)
 
 
 <!---
