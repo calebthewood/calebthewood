@@ -4,7 +4,7 @@
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 ## Roadmap:
-- [ ] Python 100 Days of Code (starting 07/01)
+- [x] [Python 100 Days of Code](https://github.com/calebthewood/Python-100-Days) (ongoing through September)
 - [ ] Updating Repo ReadMes (ongoing)
 - [x] Resume EloquentJS Projects (starting 06/13)
 
