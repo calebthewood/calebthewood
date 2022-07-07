@@ -5,8 +5,8 @@
 
 ## Roadmap:
 - [x] [Python 100 Days of Code](https://github.com/calebthewood/Python-100-Days) (ongoing through September)
-- [ ] Updating Repo ReadMes (ongoing)
-- [x] Resume EloquentJS Projects (starting 06/13)
+- [x] Updating Repo ReadMes (ongoing)
+- [ ] Resume EloquentJS Projects (7/11)
 
 
 <!---
