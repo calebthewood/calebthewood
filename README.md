@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebthewood
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently adding a set of new features to [Jobly](https://github.com/calebthewood/jobly-frontend)
+- 🌱 I’m currently converting [Jobly](https://github.com/calebthewood/jobly-frontend) to TypeScript
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 ## Ongoing and Upcoming Projects & Learning:
