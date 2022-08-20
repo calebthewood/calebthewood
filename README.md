@@ -7,7 +7,7 @@
 - [ ] [Python App Brewery Course](https://github.com/calebthewood/Python-100-Days) (10%)
 - [x] Updating Repo ReadMes
 - [x] Adding features to [Jobly](https://github.com/calebthewood/jobly-frontend) & [Warbler](https://github.com/calebthewood/flask-warbler) (ongoing)
-- [x] [Eloquent JavaScript](https://github.com/calebthewood/eloquentJS) (45%)
+- [x] [Eloquent JavaScript](https://github.com/calebthewood/eloquentJS) (67%)
 - [ ] Resume work on [QuerQee](https://github.com/calebthewood/qq-front-end) (websockets, react, trivia app)
 
 
