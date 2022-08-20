@@ -3,7 +3,7 @@
 - 🌱 I’m currently converting [Jobly](https://github.com/calebthewood/jobly-frontend) to TypeScript
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
-## Ongoing and Upcoming Projects & Learning:
+## Ongoing Projects & Learning:
 - [ ] [Python App Brewery Course](https://github.com/calebthewood/Python-100-Days) (10%)
 - [x] Updating Repo ReadMes
 - [x] Adding features to [Jobly](https://github.com/calebthewood/jobly-frontend) & [Warbler](https://github.com/calebthewood/flask-warbler) (ongoing)
