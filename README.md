@@ -4,11 +4,12 @@
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 ## Ongoing Projects & Learning:
-- [ ] [Python App Brewery Course](https://github.com/calebthewood/Python-100-Days) (10%)
-- [x] Updating Repo ReadMes
+- [x] Updating Repo ReadMes (ongoing)
 - [x] Adding features to [Jobly](https://github.com/calebthewood/jobly-frontend) & [Warbler](https://github.com/calebthewood/flask-warbler) (ongoing)
 - [x] [Eloquent JavaScript](https://github.com/calebthewood/eloquentJS) (80%)
 - [ ] Resume work on [QuerQee](https://github.com/calebthewood/qq-front-end) (websockets, react, trivia app)
+- [ ] [Data-Structures and Algorithms Course](https://github.com/calebthewood/dsa-javascript/tree/main/JS-MasterClass) (90%)
+- [ ] [Python App Brewery Course](https://github.com/calebthewood/Python-100-Days) (10%)
 
 
 <!---
