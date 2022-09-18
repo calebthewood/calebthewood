@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calebthewood
-- 👀 I’m interested in fullstack development
+- 👀 Check out my [personal site](https://www.calebwood.dev/)
 - 🌱 I’m currently converting [Jobly](https://github.com/calebthewood/jobly-frontend) to TypeScript
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
