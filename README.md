@@ -9,7 +9,6 @@
 - [x] [Eloquent JavaScript](https://github.com/calebthewood/eloquentJS) (80%)
 - [ ] Resume work on [QuerQee](https://github.com/calebthewood/qq-front-end) (websockets, react, trivia app)
 - [x] [Data-Structures and Algorithms Course](https://github.com/calebthewood/dsa-javascript/tree/main/JS-MasterClass) (90%)
-- [ ] [Python App Brewery Course](https://github.com/calebthewood/Python-100-Days) (10%)
 
 
 <!---
