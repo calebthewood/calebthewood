@@ -1,3 +1,6 @@
+# Welcome
+I'm a fullstack developer. I especially enjoy working in JS, but I'll work with whatever tool is best for the job. Take a look around, and send me an email if you have any questions. P.S. I am currently seeking fulltime employment as a fullstack or frontend dev, so snap me up before someone else does! 
+
 - 👋 Hi, I’m @calebthewood
 - 👀 Check out my [personal site](https://www.calebwood.dev/)
 - 🌱 I’m currently working on V2 of my personal site
