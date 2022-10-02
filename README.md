@@ -6,7 +6,7 @@
 ## Ongoing Projects & Learning:
 - [x] Updating Repo ReadMes (ongoing)
 - [x] Adding features to [Jobly](https://github.com/calebthewood/jobly-frontend) & [Warbler](https://github.com/calebthewood/flask-warbler) (ongoing)
-- [x] [Eloquent JavaScript](https://github.com/calebthewood/eloquentJS) (80%)
+- [x] [Eloquent JavaScript](https://github.com/calebthewood/eloquentJS) (90%)
 - [ ] Resume work on [QuerQee](https://github.com/calebthewood/qq-front-end) (websockets, react, trivia app)
 - [x] [Data-Structures and Algorithms Course](https://github.com/calebthewood/dsa-javascript/tree/main/JS-MasterClass) (Completed!)
 
