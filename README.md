@@ -3,14 +3,15 @@ I'm a fullstack developer. I especially enjoy JavaScript, but I'll work with wha
 
 - 👋 Hi, I’m @calebthewood
 - 👀 Check out my [personal site](https://www.calebwood.dev/)
-- 🌱 I’m currently working on V2 of my personal site
+- 🌱 I’m currently experimenting with new tech
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 ## Ongoing Projects & Learning:
 - [x] Updating Repo ReadMes (ongoing)
-- [x] Adding features to [Jobly](https://github.com/calebthewood/jobly-frontend) & [Warbler](https://github.com/calebthewood/flask-warbler) (ongoing)
-- [x] [Eloquent JavaScript](https://github.com/calebthewood/eloquentJS) (90%)
-- [ ] Converting [Jobly](https://github.com/calebthewood/jobly-frontend) to TypeScript (ongoing)
+- [ ] Adding features to [Jobly](https://github.com/calebthewood/jobly-frontend) & [Warbler](https://github.com/calebthewood/flask-warbler) (ongoing)
+- [x] [Eloquent JavaScript](https://github.com/calebthewood/eloquentJS) (95%)
+- [ ] Web3 basics with [Motoko](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/motoko/) and [Internet Computer](https://internetcomputer.org/) (20%)
+- [ ] Converting [Jobly](https://github.com/calebthewood/jobly-frontend) to TypeScript (paused)
 - [ ] Resume work on [QuerQee](https://github.com/calebthewood/qq-front-end) (websockets, react, trivia app)
 - [x] [Data-Structures and Algorithms Course](https://github.com/calebthewood/dsa-javascript/tree/main/JS-MasterClass) (Completed!)
 
