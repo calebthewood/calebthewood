@@ -3,7 +3,7 @@ I'm a fullstack developer. I especially enjoy JavaScript, but I'll work with wha
 
 - 👋 Hi, I’m @calebthewood
 - 👀 Check out my recently relaunched [personal site v2](https://www.calebwood.dev/)
-- 🌱 I’m currently converting minor projects to ReactJS
+- 🌱 I’m currently working on my first React Native App
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 ## Ongoing Projects & Learning:
