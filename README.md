@@ -15,6 +15,7 @@ I'm a fullstack developer. I work primarily in the JavaScript and Python sphere,
 - [ ] Web3 basics with [Motoko](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/motoko/) and [Internet Computer](https://internetcomputer.org/) (20%)
 - [ ] Resume work on [QuerQee](https://github.com/calebthewood/qq-front-end) (websockets, react, trivia app)
 - [x] [Data-Structures and Algorithms Course](https://github.com/calebthewood/dsa-javascript/tree/main/JS-MasterClass) (Completed!)
+- [ ] [Mastering TypeScript Course](https://github.com/calebthewood/TypeScriptCourse) (50%)
 
 
 <!---
