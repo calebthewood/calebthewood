@@ -1,9 +1,9 @@
 ## Welcome
-I'm a fullstack developer. I work primarily in the JavaScript and Python sphere, but I'll pickup whatever tool is best for the job. Take a look around, and send me an email if you have any questions.
+I'm a full stack developer. I work primarily in the JavaScript and Python ecosystems. Take a look around, and send me an email if you have any questions.
 
 - 👋 Hi, I’m @calebthewood
-- 👀 Check out my recently relaunched [personal site v2](https://www.calebwood.dev/)
-- 🌱 I’m currently working on my first React Native App
+- 👀 Check out my relaunched [personal site v2](https://www.calebwood.dev/)
+- 🌱 I’m currently working onn putting an AI bot in my twitter clone
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 ## Ongoing Learning:
