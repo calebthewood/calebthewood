@@ -3,7 +3,8 @@ I'm a full stack developer. I work primarily in the JavaScript and Python ecosys
 
 - 👋 Hi, I’m @calebthewood
 - 👀 Check out my relaunched [personal site v2](https://www.calebwood.dev/)
-- 🌱 I’m currently working onn putting an AI bot in my twitter clone
+- 🌱 I’m currently working on putting an AI bot in my twitter clone
+  - Update, this led to building a comments system which led to #7DaysOfCanva so I can step-up my design skills and give the site a facelift. 
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 ## Ongoing Learning:
