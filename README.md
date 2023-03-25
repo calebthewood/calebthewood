@@ -10,7 +10,7 @@ I'm a full stack developer. I work primarily in the JavaScript and Python ecosys
 ## Recent Learning:
 - [x] [Eloquent JavaScript](https://github.com/calebthewood/eloquentJS) (95%)
 - [x] [Mastering TypeScript Course](https://github.com/calebthewood/TypeScriptCourse) (Completed!)
-- [ ] [7 Days of Canva](https://github.com/calebthewood/canva-series)
+- [x] [7 Days of Canva](https://github.com/calebthewood/canva-series) (Completed!)
 - [ ] Web3 basics with [Motoko](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/motoko/) and [Internet Computer](https://internetcomputer.org/) (20%)
 - [x] [Data-Structures and Algorithms Course](https://github.com/calebthewood/dsa-javascript/tree/main/JS-MasterClass) (Completed!)
 
