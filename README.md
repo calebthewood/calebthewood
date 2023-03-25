@@ -1,10 +1,10 @@
 ## Welcome
-I'm a full stack developer. I work primarily in the JavaScript and Python ecosystems. Take a look around, and send me an email if you have any questions.
+I'm a full stack developer. I work primarily in the JavaScript (Node, Express, React) and Python (Flask) ecosystems. 
 
 - 👋 Hi, I’m @calebthewood
-- 👀 Check out my relaunched [personal site v2](https://www.calebwood.dev/)
+- 👀 Check out my relaunched [personal site](https://www.calebwood.dev/)
 - 🌱 I’m currently working on putting an AI bot in my twitter clone
-  - Update, this led to building a comments system which led to #7DaysOfCanva so I can step-up my design skills and give the site a facelift. 
+  - Update: this led to building a comments system which led to #7DaysOfCanva so b/c I want to move the project off Bootstrap. 
 - 📫 How to reach me ...calebwood.cs@gmail.com
 
 ## Recent Learning:
@@ -13,6 +13,7 @@ I'm a full stack developer. I work primarily in the JavaScript and Python ecosys
 - [x] [7 Days of Canva](https://github.com/calebthewood/canva-series) (Completed!)
 - [ ] Web3 basics with [Motoko](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/motoko/) and [Internet Computer](https://internetcomputer.org/) (20%)
 - [x] [Data-Structures and Algorithms Course](https://github.com/calebthewood/dsa-javascript/tree/main/JS-MasterClass) (Completed!)
+- [ ] [Cracking the Coding Interview]([https://github.com/calebthewood/dsa-javascript/tree/main/JS-MasterClass](https://github.com/calebthewood/dsa-javascript/tree/main/CTCI-Questions)) (6%)
 
 ## Recent Projects:
 - [x] Migrated Jobly and Warbler Postgres DBs from Heroku to AWS RDS (12/22)
