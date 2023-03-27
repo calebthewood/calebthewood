@@ -1,11 +1,13 @@
-## Welcome
-I'm a full stack developer. I work primarily in the JavaScript (Node, Express, React) and Python (Flask) ecosystems. 
-
 - 👋 Hi, I’m @calebthewood
 - 👀 Check out my relaunched [personal site](https://www.calebwood.dev/)
-- 🌱 I’m currently working on putting an AI bot in my twitter clone
-  - Update: this led to building a comments system which led to #7DaysOfCanva so b/c I want to move the project off Bootstrap. 
-- 📫 How to reach me ...calebwood.cs@gmail.com
+- 🥞 I work primarily in JavaScript, Python, Postgres and MongoDB
+  - JavaScript: React, Node, Express, jQuery
+  - Python: Flask, SQLAlchemy, WTForms, PG, Graphene
+  - Databases: AWS RDS and S3, MongoDB Atlas
+- 🌱 I’m currently working on putting an AI bot in my [twitter clone](https://github.com/calebthewood/flask-warbler)
+  - Update: this led to building a comments system 
+  - Update: this led to [#7DaysOfCanva](https://github.com/calebthewood/canva-series) to step-up my design skills
+- 📫 How to reach me... calebwood.cs@gmail.com
 
 ## Recent Learning:
 - [x] [Eloquent JavaScript](https://github.com/calebthewood/eloquentJS) (95%)
