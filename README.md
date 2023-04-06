@@ -15,7 +15,7 @@
 - [x] [7 Days of Canva](https://github.com/calebthewood/canva-series) (Completed!)
 - [ ] Web3 basics with [Motoko](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/motoko/) and [Internet Computer](https://internetcomputer.org/) (20%)
 - [x] [Data-Structures and Algorithms Course](https://github.com/calebthewood/dsa-javascript/tree/main/JS-MasterClass) (Completed!)
-- [ ] [Cracking the Coding Interview](https://github.com/calebthewood/dsa-javascript/tree/main/CTCI-Questions) (6%)
+- [ ] [Cracking the Coding Interview](https://github.com/calebthewood/dsa-javascript/tree/main/CTCI-Questions) (12%)
 
 ## Recent Projects:
 - [x] Migrated Jobly and Warbler Postgres DBs from Heroku to AWS RDS (12/22)
