@@ -20,8 +20,8 @@
 ## Recent Projects:
 - [x] Migrated Jobly and Warbler Postgres DBs from Heroku to AWS RDS (12/22)
 - [x] Updating Repo ReadMes (perpetual)
-- [ ] Converting [Jobly](https://github.com/calebthewood/jobly-frontend) to TypeScript (paused)
-- [x] Better buttons and responsiveness for [Warbler](https://github.com/calebthewood/flask-warbler) (completed!)
+- [x] Convert [Jobly](https://github.com/calebthewood/jobly-frontend) to TypeScript (4/23)
+- [x] Better buttons and responsiveness for [Warbler](https://github.com/calebthewood/flask-warbler) (01/23)
 - [ ] Resume work on [QuerQee](https://github.com/calebthewood/qq-front-end)
 
 <!---
