@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @calebthewood
 - 👀 Check out my relaunched [personal site](https://www.calebwood.dev/)
-- 🥞 I work primarily in JavaScript, Python, Postgres and MongoDB
-  - JavaScript: React, Node, Express, jQuery
+- 🥞 I work primarily in the JavaScript and Python ecosystems
+  - JavaScript: React, TypeScript, Node, Express, jQuery
   - Python: Flask, SQLAlchemy, WTForms, PG, Graphene
-  - Databases: AWS RDS and S3, MongoDB Atlas
-- 🌱 I’m currently working on putting an AI bot in my [twitter clone](https://github.com/calebthewood/flask-warbler)
-  - Update: this led to building a comments system 
-  - Update: this led to [#7DaysOfCanva](https://github.com/calebthewood/canva-series) to step-up my design skills
+  - Databases: Postgres, AWS, MongoDB
 - 📫 How to reach me... calebwood.cs@gmail.com
 
 ## Recent Learning:
