@@ -14,10 +14,11 @@
 - [x] [Data-Structures and Algorithms Course](https://github.com/calebthewood/dsa-javascript/tree/main/JS-MasterClass) (Completed!)
 - [ ] [Cracking the Coding Interview](https://github.com/calebthewood/dsa-javascript/tree/main/CTCI-Questions) (12%)
 
-## Recent Projects:
+## Recent Projects (2023):
+- [x] Developed [Jobs 'n Things](https://github.com/calebthewood/jobs-n-things) a Node.js and Selenium web scraper (04/22)
+- [ ] - [x] Convert [Jobly](https://github.com/calebthewood/jobly-frontend) to TypeScript (4/23)
 - [x] Migrated Jobly and Warbler Postgres DBs from Heroku to AWS RDS (12/22)
 - [x] Updating Repo ReadMes (perpetual)
-- [x] Convert [Jobly](https://github.com/calebthewood/jobly-frontend) to TypeScript (4/23)
 - [x] Better buttons and responsiveness for [Warbler](https://github.com/calebthewood/flask-warbler) (01/23)
 - [ ] Resume work on [QuerQee](https://github.com/calebthewood/qq-front-end)
 
