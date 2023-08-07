@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @calebthewood
-- 👀 Check out my relaunched [personal site](https://www.calebwood.dev/)
+- 👀 Check out my [personal site](https://www.calebwood.dev/)
 - 🥞 I work primarily in the JavaScript and Python ecosystems
-  - JavaScript: React, TypeScript, Node, Express, jQuery
-  - Python: Flask, SQLAlchemy, WTForms, PG, Graphene
-  - Databases: Postgres, AWS, MongoDB
 - 📫 How to reach me... calebwood.cs@gmail.com
 
 ## Recent Learning:
