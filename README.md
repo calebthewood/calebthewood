@@ -9,7 +9,7 @@
 - [x] [Mastering TypeScript Course](https://github.com/calebthewood/TypeScriptCourse) (Completed!)
 - [x] [7 Days of Canva](https://github.com/calebthewood/canva-series) (Completed!)
 - [x] [Data-Structures and Algorithms Course](https://github.com/calebthewood/dsa-javascript/tree/main/JS-MasterClass) (Completed!)
-- [ ] [Cracking the Coding Interview](https://github.com/calebthewood/dsa-javascript/tree/main/CTCI-Questions) (12%)
+- [ ] [Cracking the Coding Interview](https://github.com/calebthewood/dsa-javascript/tree/main/CTCI-Questions) (24%)
 
 ## Recent Projects (2023):
 - [x] Arduino [Pong](https://github.com/calebthewood/Arduino/tree/main/pong) in C++ (08/25)
