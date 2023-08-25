@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @calebthewood
 - 👀 Check out my [personal site](https://www.calebwood.dev/)
-- 🥞 I work primarily in the JavaScript and Python ecosystems
-- 📫 How to reach me... calebwood.cs@gmail.com
+- 🥞 Contracting for [Legends](https://www.buildlegends.com/)
+- 📫 How to reach me... calebwood.dev@gmail.com
 
 ## Recent Learning:
 - [ ] Elegoo's super starter set for [Arduino](https://github.com/calebthewood/arduino) (60%)
