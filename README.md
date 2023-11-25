@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebthewood
 - 👀 Check out my [personal site](https://www.calebwood.dev/)
-- 🥞 Currently writing code for [Legends](https://www.buildlegends.com/)
+- 🥞 Currently getting up to speed on [Angular](https://angular.dev/), [Go](https://go.dev/), and [D3](https://www.newline.co/courses/fullstack-d3-masterclass)
 - 📫 How to reach me... calebwood.dev@gmail.com
 
 ## Recent Projects (2023):
