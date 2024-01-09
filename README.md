@@ -8,7 +8,7 @@
 - [ ] Learning [R](https://www.r-project.org/) via the [Tidyverse](https://www.tidyverse.org/) (ongoing)
 - [x] Arduino [Pong](https://github.com/calebthewood/Arduino/tree/main/pong) in C++ (08/23)
 - [x] Convert [Jobly](https://github.com/calebthewood/jobly-frontend) to TypeScript (4/23)
-- [x] Developed [Jobs 'n Things](https://github.com/calebthewood/jobs-n-things) a Node.js and Selenium web scraper (04/22)
+- [x] Developed [Jobs 'n Things](https://github.com/calebthewood/jobs-n-things) a Node.js and Selenium web scraper (04/23)
 - [x] Migrated Jobly and Warbler Postgres DBs from Heroku to AWS RDS (12/22)
 - [x] Better buttons for [Warbler](https://github.com/calebthewood/flask-warbler) (01/23)
 
