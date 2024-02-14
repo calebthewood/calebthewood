@@ -6,8 +6,8 @@
 ## Current and Recent Projects:
 - [ ] Learning [R](https://www.r-project.org/) via the [Tidyverse](https://www.tidyverse.org/) (ongoing)
 - [ ] Becoming a [Gopher](https://github.com/calebthewood/going) (ongoing)
-- [x] Migrated a 4 server RHEL subnet with 6 apps, and 2 DBs to new machines for [UHERO](https://uhero.hawaii.edu/) (02/09)
-- [x] Completed Newline's [D3](https://github.com/calebthewood/newline-d3) course w/ [Amelia Wattenberger](https://wattenberger.com/) (02/14)
+- [x] Migrated a 4 server RHEL subnet with 6 apps, and 2 DBs to new machines for [UHERO](https://uhero.hawaii.edu/) (02/24)
+- [x] Completed Newline's [D3](https://github.com/calebthewood/newline-d3) course w/ [Amelia Wattenberger](https://wattenberger.com/) (02/24)
 - [x] Arduino [Pong](https://github.com/calebthewood/Arduino/tree/main/pong) in C++ (08/23)
 - [x] Convert [Jobly](https://github.com/calebthewood/jobly-frontend) to TypeScript (4/23)
 - [x] Migrated Jobly and Warbler Postgres DBs from Heroku to AWS RDS (12/22)
