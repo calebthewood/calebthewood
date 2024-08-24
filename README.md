@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebthewood
 - 👀 Check out my [personal site](https://www.calebwood.dev/)
-- 🥞 Currently building dashboards and maps in React, NextJS, and [D3](https://www.newline.co/courses/fullstack-d3-masterclass)
+- 🥞 Currently building dashboards 'n things in React, NextJS, and [D3](https://www.newline.co/courses/fullstack-d3-masterclass)
 - 📫 How to reach me... calebwood.dev@gmail.com
 
 ## Current and Recent Projects:
